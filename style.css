@@ -1,0 +1,177 @@
+/* Reset */
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #0A0A0B;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+/* Reset end */
+
+#container {
+    margin-top: 30px;
+}
+
+nav li a {
+    color: #ADADAD;
+    font-family: "inter", sans-serif;
+    font-size: 1rem;
+}
+
+button {
+    background-color: #FBE850;
+    width: 170px;
+    padding: 20px 10px;
+    border: none;
+    color: black;
+    font-family: "Prata";
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: white;
+    color: #0A0A0B;
+    box-shadow: 1px 1px 10px rgba(230, 213, 81, 0.68);
+}
+
+a button {
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+}
+
+nav {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+}
+
+p {
+    font-family: "inter", sans-serif;
+}
+
+.off-logo {
+    font-family: "prata", sans-serif;
+}
+
+#big {
+    font-family: "prata", sans-serif;
+    font-size: 3rem;
+    max-width: 60%;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+#small {
+    font-size: 1rem;
+    max-width: 45%;
+    color: #ADADAD;
+    line-height: 25px;
+}
+
+#hero {
+    /* margin: 50px 0px; */
+    padding: 50px;
+}
+
+#clients {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin: 0px 0px;
+}
+
+.logo {
+    height: 18px;
+}
+
+#projects {
+    margin: 50px 0px;
+}
+
+.block img {
+    width: 470px;
+}
+
+.block-title {
+    font-family: "Prata", sans-serif;
+    font-size: 2.2em;
+    margin: 10px 0px;
+}
+
+.block .small {
+    font-size: 1rem;
+    max-width: 90%;
+    font-weight: 400;
+    color: #ADADAD;
+    word-spacing: 1px;
+}
+
+.block {
+    width: 500px;
+}
+
+#projects {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#about {
+    background-color: #2E3038;
+    margin: 50px 0px;
+    column-count: 2;
+    column-gap: 50px;
+    padding: 70px;
+}
+
+#about #header {
+    font-family: "prata", sans-serif;
+    font-size: 2rem;
+    margin: 0px;
+}
+
+#about .small {
+    word-spacing: 1px;
+    color: #ADADAD;
+}
+
+.header {
+    font-family: "Prata", sans-serif;
+    font-size: 2em;
+    margin: 0px;
+}
+
+#contact {
+    padding: 50px;
+}
+
+#contact .small {
+    font-size: 1rem;
+    max-width: 35%;
+    font-weight: 400;
+    color: #ADADAD;
+    word-spacing: 1px;
+}
+
+.cnct {
+    margin-top: 8px;
+}
+
+footer {
+    background-color: #2E3038;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 50px;
+}
