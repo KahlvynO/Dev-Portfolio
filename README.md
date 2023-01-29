@@ -34,7 +34,7 @@ The task was to recreate the portfolio website.
 ### Links
 
 - Solution URL: [Github](https://github.com/KahlvynO/Dev-Portfolio)
-- Live Site URL: [Netlify](https://codewellport.netlify.com)
+- Live Site URL: [Netlify](https://codewellport.netlify.app)
 
 ## My process
 
