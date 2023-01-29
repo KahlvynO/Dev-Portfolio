@@ -25,9 +25,10 @@ The task was to recreate the portfolio website.
 
 ### Screenshot
 
-![Developer Portfolio Screenshot (Desktop)](assets/Screenshots/Full-Desktop.png)
+<img src="assets/Screenshots/Full-Desktop.PNG" alt="Developer Portfolio Screenshot (Desktop)" width="80%"/>
 
-![Developer Portfolio Screenshot (Mobile)](assets/Screenshots/Mobile.png)
+
+<img src="assets/Screenshots/Mobile.PNG" alt="Developer Portfolio Screenshot (Mobile)" width="50%"/>
 
 
 
