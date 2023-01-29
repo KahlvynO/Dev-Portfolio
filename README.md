@@ -25,9 +25,9 @@ The task was to recreate the portfolio website.
 
 ### Screenshot
 
-<img src="Desktop.png" width="600px">
+<img src="README-images/Desktop.png" width="600px">
 
-<img src="Mobile.png" width="400px">
+<img src="README-images/Mobile.png" width="400px">
 
 
 
