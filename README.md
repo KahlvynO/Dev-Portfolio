@@ -33,7 +33,7 @@ The task was to recreate the portfolio website.
 
 ### Links
 
-- Solution URL: [Github](https://github.com/KahlvynO/Notifications-Page)
+- Solution URL: [Github](https://github.com/KahlvynO/Dev-Portfolio)
 - Live Site URL: [Netlify](https://codewellport.netlify.com)
 
 ## My process
