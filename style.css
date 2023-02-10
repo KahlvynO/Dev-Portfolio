@@ -39,16 +39,13 @@ button {
     color: black;
     font-family: "Prata";
     font-size: 1rem;
+    cursor: pointer;
 }
 
 button:hover {
     background-color: white;
     color: #0A0A0B;
     box-shadow: 1px 1px 10px rgba(230, 213, 81, 0.68);
-}
-
-a button {
-    cursor: pointer;
 }
 
 ul {
